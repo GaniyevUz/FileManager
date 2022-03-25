@@ -1,0 +1,20 @@
+{
+    "_readme": [
+        "Ozbekiston dasturchilar asotsassiyasi",
+        "Bir balo bir balo birbalo",
+        "TiLoN"
+    ],
+    "content-hash": "adc392ef7340a30855efcdacc40133fd",
+    "packages": [],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "ext-mbstring": "*"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
