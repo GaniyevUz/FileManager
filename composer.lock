@@ -1,8 +1,6 @@
 {
     "_readme": [
-        "Ozbekiston dasturchilar asotsassiyasi",
-        "Bir balo bir balo birbalo",
-        "TiLoN"
+        "Web based File Manager in PHP, Manage your files efficiently and easily"
     ],
     "content-hash": "adc392ef7340a30855efcdacc40133fd",
     "packages": [],
